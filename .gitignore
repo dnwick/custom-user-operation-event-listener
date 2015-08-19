@@ -6,4 +6,5 @@
 *.iws
 *.ipr
 .idea
+.svn
 .DS_Store
