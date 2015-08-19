@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Service-Component: OSGI-INF/serviceComponents.xml
+Export-Package: org.wso2.carbon.custom.notification.sender;uses:="org.
+ apache.commons.logging";version="1.0.0"
+Built-By: Omindu
+Tool: Bnd-1.43.0
+Bundle-Name: org.wso2.carbon.custom.notification.sender
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: *
+Build-Jdk: 1.7.0_71
+Bundle-Version: 1.0.0
+Bnd-LastModified: 1439989026013
+Bundle-ManifestVersion: 2
+Import-Package: org.apache.commons.logging;version="1.0.4"
+Bundle-SymbolicName: org.wso2.carbon.custom.notification.sender
+
